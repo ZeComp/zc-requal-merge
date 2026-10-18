@@ -1,1 +1,2 @@
 requalification : requal/head-integration vers integration
+reprise 1 : nouveau contrôle après correction du workflow (ancien SHA 846bd475f8aa)
